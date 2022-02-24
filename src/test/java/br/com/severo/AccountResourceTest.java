@@ -1,6 +1,5 @@
-package br.com.codetest;
+package br.com.severo;
 
-import br.com.severo.Main;
 import br.com.severo.enums.EnumStatusTypes;
 import br.com.severo.model.Account;
 import br.com.severo.model.Country;
