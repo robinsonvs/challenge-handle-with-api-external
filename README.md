@@ -1,4 +1,4 @@
-# Challenge - Writing an External Integration
+# Writing an External Integration
 
 Integrating with external partners via APIs is the rule nowadays. Commonly they are modern and well design... but 
 sometimes they are not!
